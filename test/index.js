@@ -12,10 +12,12 @@ describe('superb spanish', () => {
 
   describe('.word', () => {
     it('return an array of singular words', () => {
-      should(superb.singular).instanceOf(Array)
-    })
-    it('return an array of plural words', () => {
-      should(superb.plural).instanceOf(Array)
+      const singular = superb.words()
+      const plural = superb.words({ plural: true })
+
+      should(singular).instanceOf(Array)
+      should(plural).instanceOf(Array)
+      should(singular).not.eql(plural)
     })
   })
 })
