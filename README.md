@@ -33,8 +33,14 @@ superb()
 superb()
 // => 'fiera'
 
-superb.words
+superb({plural: true})
+// => 'cracks'
+
+superb.words()
 // => ['máquina', 'fiera', …]
+
+superb.words({plural: true})
+// => ['máquinas', 'fieras', …]
 ```
 
 ## CLI
@@ -50,24 +56,43 @@ $ superb-es --help
     crack
     fiera
     …
+    
+    $ superb-es --all --plural
+    cracks
+    fieras
+    …
 
   Options
-    --all  Get all the words instead of a random word
+    --plural  Get all the plurals words
+    --all     Get all the words instead of a random word
 ```
 
 ## API
 
-### superb()
+### superb([options])
 
-Type: `string`
+Get a singular random [superb like word](words.json).
 
-Random [superb like word](words.json).
+#### options
 
-### superb.words
+##### plural
 
-Type: `array`
+Get a plural random word.
 
-All the words.
+### superb.words([options])
+
+Type: `function`
+
+Get all the singular words.
+
+#### options
+
+##### plural
+
+Type: `boolean`</br>
+default: `false`
+
+Get all the plural words.
 
 ## License
 

@@ -3,5 +3,8 @@
 const uniqueRandomArray = require('unique-random-array')
 const words = require('./words.json')
 
-module.exports = uniqueRandomArray(words)
-module.exports.words = words
+const randomWord = uniqueRandomArray(words)
+
+module.exports = ({ plural = false } = {}) => randomWord()[plural ? 1 : 0]
+module.exports.words = ({ plural = false } = {}) =>
+  words.map(item => item[plural ? 1 : 0])

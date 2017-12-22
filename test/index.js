@@ -11,8 +11,11 @@ describe('superb spanish', () => {
   })
 
   describe('.word', () => {
-    it('return an array', () => {
-      should(superb.words).instanceOf(Array)
+    it('return an array of singular words', () => {
+      should(superb.singular).instanceOf(Array)
+    })
+    it('return an array of plural words', () => {
+      should(superb.plural).instanceOf(Array)
     })
   })
 })

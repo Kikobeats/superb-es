@@ -1,10 +1,10 @@
 [
-	"artista",
-	"crack",
-	"fiera",
-	"lumbreras",
-	"máquina",
-	"mastodonte",
-	"tiburón",
-	"tifón"
+	["artista", "artistas"],
+	["crack", "cracks"],
+	["fiera", "fieras"],
+	["lumbreras", "lumbreras"],
+	["máquina", "máquinas"],
+	["mastodonte", "mastodontes"],
+	["tiburón", "tiburones"],
+	["tifón", "tifones"]
 ]
