@@ -28,13 +28,13 @@ $ npm install superb-es --global
 const superb = require('superb-es')
 
 superb()
-//=> 'máquina'
+// => 'máquina'
 
 superb()
-//=> 'fiera'
+// => 'fiera'
 
 superb.words
-//=> ['máquina', 'fiera', …]
+// => ['máquina', 'fiera', …]
 ```
 
 ## CLI
