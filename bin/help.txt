@@ -7,5 +7,12 @@ Examples
   fiera
   …
 
+  $ superb-es --all --plural
+  cracks
+  fieras
+  …
+
 Options
-  --all  Get all the words instead of a random word
+  --capitalize  Capitalize the first letter of the word.
+  --all     Get all the words instead of a random word.
+  --plural  Get all the plurals words.

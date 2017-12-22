@@ -12,7 +12,7 @@ const cli = require('meow')({
   help: require('fs').readFileSync(path.join(__dirname, 'help.txt'), 'utf8')
 })
 
-const { plural, all } = cli.flags
-const output = all ? superb.words({ plural }) : superb({ plural })
+const { all, ...opts } = cli.flags
+const output = all ? superb.words(opts) : superb(opts)
 
 console.log(output)

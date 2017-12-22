@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="https://i.imgur.com/MhF8yoZ.png" alt="superb-es">
+  <img src="https://i.imgur.com/br0QoZx.png" alt="superb-es">
   <br>
 </p>
 
@@ -63,8 +63,9 @@ $ superb-es --help
     …
 
   Options
-    --plural  Get all the plurals words
-    --all     Get all the words instead of a random word
+    --capitalize  Capitalize the first letter of the word.
+    --all     Get all the words instead of a random word.
+    --plural  Get all the plurals words.
 ```
 
 ## API
@@ -75,24 +76,27 @@ Get a singular random [superb like word](words.json).
 
 #### options
 
+##### capitalize
+
+type: `boolean`</br>
+default: `false`
+
+Capitalize the first letter of the word.
+
 ##### plural
+
+type: `boolean`</br>
+default: `false`
 
 Get a plural random word.
 
 ### superb.words([options])
 
-Type: `function`
+type: `array`
 
 Get all the singular words.
 
-#### options
-
-##### plural
-
-Type: `boolean`</br>
-default: `false`
-
-Get all the plural words.
+It can receive the same options than `superb`.
 
 ## License
 
