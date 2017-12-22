@@ -40,13 +40,13 @@ superb.words
 ## CLI
 
 ```bash
-$ superb --help
+$ superb-es --help
 
   Examples
-    $ superb
+    $ superb-es
     máquina
 
-    $ superb --all
+    $ superb-es --all
     crack
     fiera
     …

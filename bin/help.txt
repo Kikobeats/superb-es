@@ -1,8 +1,8 @@
 Examples
-  $ superb
+  $ superb-es
   máquina
 
-  $ superb --all
+  $ superb-es --all
   crack
   fiera
   …
