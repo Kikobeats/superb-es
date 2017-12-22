@@ -1,3 +1,12 @@
+<a name="1.1.0"></a>
+# 1.1.0 (2017-12-22)
+
+* Add figura word ([7dd3a3e](https://github.com/Kikobeats/superb-es/commit/7dd3a3e))
+* Add plural support ([c13030b](https://github.com/Kikobeats/superb-es/commit/c13030b))
+* Update test ([914ffb3](https://github.com/Kikobeats/superb-es/commit/914ffb3))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2017-12-22)
 
