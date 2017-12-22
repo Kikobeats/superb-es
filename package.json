@@ -1,11 +1,11 @@
 {
-  "name": "superb-spanish",
+  "name": "superb-es",
   "description": "Get superb (spanish) like words",
-  "homepage": "https://documentup.com/Kikobeats/superb-spanish",
+  "homepage": "https://documentup.com/Kikobeats/superb-es",
   "version": "0.0.0",
   "main": "index.js",
   "bin": {
-    "superb-spanish": "bin/index.js"
+    "superb-es": "bin/index.js"
   },
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
@@ -14,12 +14,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kikobeats/superb-spanish.git"
+    "url": "git+https://github.com/Kikobeats/superb-es.git"
   },
   "bugs": {
-    "url": "https://github.com/Kikobeats/superb-spanish/issues"
+    "url": "https://github.com/Kikobeats/superb-es/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "array",
+    "awesome",
+    "bin",
+    "cli",
+    "cli-app",
+    "list",
+    "rand",
+    "random",
+    "spanish",
+    "superb",
+    "word",
+    "words"
+  ],
   "dependencies": {
     "meow": "~4.0.0",
     "unique-random-array": "~1.0.0",
@@ -40,6 +53,11 @@
   "engines": {
     "node": ">= 6"
   },
+  "files": [
+    "bin",
+    "index.js",
+    "words.json"
+  ],
   "scripts": {
     "clean": "rm -rf node_modules",
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
