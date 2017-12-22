@@ -1,3 +1,10 @@
+<a name="1.2.0"></a>
+# 1.2.0 (2017-12-22)
+
+* Add capitalize support ([4540203](https://github.com/Kikobeats/superb-es/commit/4540203))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2017-12-22)
 
