@@ -1,0 +1,11 @@
+Examples
+  $ superb
+  máquina
+
+  $ superb --all
+  crack
+  fiera
+  …
+
+Options
+  --all  Get all the words instead of a random word
