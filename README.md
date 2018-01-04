@@ -1,7 +1,5 @@
 # superb-es
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/superb-es.svg)](https://greenkeeper.io/)
-
 <p align="center">
   <br>
   <img src="https://i.imgur.com/br0QoZx.png" alt="superb-es">
