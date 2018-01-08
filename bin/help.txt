@@ -2,17 +2,17 @@ Examples
   $ superb-es
   máquina
 
-  $ superb-es --all
-  crack
-  fiera
-  …
-
-  $ superb-es --all --plural
-  cracks
+  $ superb-es --plural
   fieras
-  …
+
+  $ superb-es --prefix
+  súper crack
+
+  $ superb-es --prefix "el_"
+  el_fiera
 
 Options
   --capitalize  Capitalize the first letter of the word.
-  --all     Get all the words instead of a random word.
-  --plural  Get all the plurals words.
+  --all         Get all the words instead of a random word.
+  --plural      Get all the plurals words.
+  --prefix      Add a prefix adverb before your superb word.

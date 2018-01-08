@@ -20,6 +20,17 @@ describe('superb spanish', () => {
       const word = superb({ plural: true })
       should(superb.words({ plural: true }).includes(word)).be.true()
     })
+
+    it('custom prefix support', () => {
+      const word = superb({ prefix: 'er_' })
+      should(word.includes('er')).be.true()
+    })
+
+    it('prefix support', () => {
+      const word = superb({ prefix: true })
+      const [prefix] = word.split(' ')
+      should(superb.prefixes().includes(prefix)).be.true()
+    })
   })
 
   describe('.word', () => {

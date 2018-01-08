@@ -56,7 +56,8 @@
   "files": [
     "bin",
     "index.js",
-    "words.json"
+    "words.json",
+    "prefixes.json"
   ],
   "scripts": {
     "clean": "rm -rf node_modules",
