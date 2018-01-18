@@ -1,12 +1,38 @@
 [
-  ["artista", "artistas"],
-  ["crack", "cracks"],
-  ["fiera", "fieras"],
-  ["figura", "figuras"],
-  ["lumbreras", "lumbreras"],
-  ["máquina", "máquinas"],
-  ["mastodonte", "mastodontes"],
-  ["tiburón", "tiburones"],
-  ["tifón", "tifones"],
-  ["titán", "titanes"]
+  {
+    "singular": "artista",
+    "plural": "artistas"
+  },
+  {
+    "singular": "crack",
+    "plural": "cracks"
+  },
+  {
+    "singular": "fiera",
+    "plural": "fieras"
+  },
+  {
+    "singular": "figura",
+    "plural": "figuras"
+  },
+  {
+    "singular": "lumbreras",
+    "plural": "lumbreras"
+  },
+  {
+    "singular": "mastodonte",
+    "plural": "mastodontes"
+  },
+  {
+    "singular": "tiburón",
+    "plural": "tiburones"
+  },
+  {
+    "singular": "tifón",
+    "plural": "tifones"
+  },
+  {
+    "singular": "titán",
+    "plural": "titanes"
+  }
 ]

@@ -14,9 +14,10 @@ const getPrefix = prefix =>
 
 const getValue = (
   item,
-  { capitalize = false, plural = false, prefix = false } = {}
+  { capitalize = false, plural: isPlural = false, prefix = false } = {}
 ) => {
-  const word = item[plural ? 1 : 0]
+  const { singular, plural } = item
+  const word = isPlural ? plural : singular
   const adverb = prefix ? getPrefix(prefix) : ''
   const value = `${adverb}${word}`
 
