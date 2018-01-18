@@ -1,38 +1,136 @@
 [
   {
-    "singular": "artista",
-    "plural": "artistas"
+    "singularMale": "artista",
+    "pluralMale": "artistas"
   },
   {
-    "singular": "crack",
-    "plural": "cracks"
+    "singularMale": "genio",
+    "singularFemale": "genia",
+    "pluralMale": "genios",
+    "pluralFemale": "genias"
   },
   {
-    "singular": "fiera",
-    "plural": "fieras"
+    "singularMale": "ídolo",
+    "singularFemale": "ídola",
+    "pluralMale": "ídolos",
+    "pluralFemale": "ídolas"
   },
   {
-    "singular": "figura",
-    "plural": "figuras"
+    "singularMale": "monstruo",
+    "pluralMale": "monstruos"
   },
   {
-    "singular": "lumbreras",
-    "plural": "lumbreras"
+    "singularMale": "jefe",
+    "singularFemale": "jefa",
+    "pluralMale": "jefes",
+    "pluralFemale": "jefas"
   },
   {
-    "singular": "mastodonte",
-    "plural": "mastodontes"
+    "singularMale": "maestro",
+    "singularFemale": "maestra",
+    "pluralMale": "maestros",
+    "pluralFemale": "maestras"
   },
   {
-    "singular": "tiburón",
-    "plural": "tiburones"
+    "singularMale": "socio",
+    "singularFemale": "socia",
+    "pluralMale": "socios",
+    "pluralFemale": "socias"
   },
   {
-    "singular": "tifón",
-    "plural": "tifones"
+    "singularMale": "héroe",
+    "pluralMale": "héroes"
   },
   {
-    "singular": "titán",
-    "plural": "titanes"
+    "singularMale": "fenómeno",
+    "pluralMale": "fenómenos"
+  },
+  {
+    "singularMale": "gacela",
+    "pluralMale": "gacelas"
+  },
+  {
+    "singularMale": "tigre",
+    "singularFemale": "tigresa",
+    "pluralMale": "tigres",
+    "pluralFemale": "tigresas"
+  },
+  {
+    "singularMale": "bestia",
+    "pluralMale": "bestias"
+  },
+  {
+    "singularMale": "animal",
+    "pluralMale": "animales"
+  },
+  {
+    "singularMale": "brontosaurio",
+    "singularFemale": "brontosauria",
+    "pluralMale": "brontosaurios",
+    "pluralFemale": "brontosaurias"
+  },
+  {
+    "singularMale": "campeón",
+    "singularFemale": "campeona",
+    "pluralMale": "campeones",
+    "pluralFemale": "campeonas"
+  },
+  {
+    "singularMale": "mostrenco",
+    "singularFemale": "mostrenca",
+    "pluralMale": "mostrencos",
+    "pluralFemale": "mostrencas"
+  },
+  {
+    "singularMale": "crack",
+    "pluralMale": "cracks"
+  },
+  {
+    "singularMale": "hacha",
+    "pluralMale": "hachas"
+  },
+  {
+    "singularMale": "pieza",
+    "pluralMale": "piezas"
+  },
+  {
+    "singularMale": "ciclón",
+    "pluralMale": "ciclones"
+  },
+  {
+    "singularMale": "prenda",
+    "pluralMale": "prendas"
+  },
+  {
+    "singularMale": "killer",
+    "pluralMale": "killers"
+  },
+  {
+    "singularMale": "fiera",
+    "pluralMale": "fieras"
+  },
+  {
+    "singularMale": "figura",
+    "pluralMale": "figuras"
+  },
+  {
+    "singularMale": "lumbreras",
+    "pluralMale": "lumbreras"
+  },
+  {
+    "singularMale": "mastodonte",
+    "pluralMale": "mastodontes"
+  },
+  {
+    "singularMale": "tiburón",
+    "pluralMale": "tiburones"
+  },
+  {
+    "singularMale": "tifón",
+    "pluralMale": "tifones"
+  },
+  {
+    "singularMale": "titán",
+    "pluralMale": "titanes"
   }
 ]

@@ -64,8 +64,10 @@ $ superb-es --help
 
   Options
     --capitalize  Capitalize the first letter of the word.
-    --all     Get all the words instead of a random word.
-    --plural  Get all the plurals words.
+    --all         Get all the words instead of a random word.
+    --female      Get a female random word.
+    --plural      Get all the plurals words.
+    --prefix      Add a prefix adverb before your superb word.
 ```
 
 ## API
@@ -82,6 +84,13 @@ type: `boolean`</br>
 default: `false`
 
 Capitalize the first letter of the word.
+
+##### female
+
+type: `boolean`</br>
+default: `false`
+
+Get a female random word.
 
 ##### plural
 
