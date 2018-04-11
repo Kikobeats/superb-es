@@ -136,5 +136,27 @@
   {
     "singularMale": "titán",
     "pluralMale": "titanes"
+  },
+  {
+    "singularMale": "iluminado",
+    "singularFemale": "iluminada",
+    "pluralMale": "iluminados",
+    "pluralFemale": "iluminadas"
+  },
+  {
+    "singularMale": "donjuán",
+    "pluralMale": "donjuanes"
+  },
+  {
+    "singularMale": "conquistador",
+    "singularFemale": "conquistadora",
+    "pluralMale": "conquistadores",
+    "pluralFemale": "conquistadoras"
+  },
+  {
+    "singularMale": "pájaro",
+    "singularFemale": "pájara",
+    "pluralMale": "pájaros",
+    "pluralFemale": "pájaras"
   }
 ]
