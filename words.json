@@ -20,6 +20,10 @@
     "pluralMale": "monstruos"
   },
   {
+    "singularMale": "máquina",
+    "pluralMale": "máquinas"
+  },
+  {
     "singularMale": "jefe",
     "singularFemale": "jefa",
     "pluralMale": "jefes",
