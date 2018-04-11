@@ -136,5 +136,11 @@
   {
     "singularMale": "titán",
     "pluralMale": "titanes"
+  },
+  {
+    "singularMale": "conquistador",
+    "singularFemale": "conquistadora",
+    "pluralMale": "conquistadores",
+    "pluralFemale": "conquistadoras"
   }
 ]
