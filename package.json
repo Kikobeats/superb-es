@@ -35,7 +35,7 @@
   ],
   "dependencies": {
     "get-value": "~3.0.0",
-    "meow": "~4.0.0",
+    "meow": "~5.0.0",
     "unique-random-array": "~1.0.0",
     "update-notifier": "~2.5.0"
   },
