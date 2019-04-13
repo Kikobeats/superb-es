@@ -33,13 +33,13 @@ superb()
 superb()
 // => 'fiera'
 
-superb({plural: true})
+superb({ plural: true })
 // => 'cracks'
 
 superb.words()
 // => ['máquina', 'fiera', …]
 
-superb.words({plural: true})
+superb.words({ plural: true })
 // => ['máquinas', 'fieras', …]
 ```
 
