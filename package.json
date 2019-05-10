@@ -37,7 +37,7 @@
     "get-value": "~3.0.0",
     "meow": "~5.0.0",
     "unique-random-array": "~2.0.0",
-    "update-notifier": "~2.5.0"
+    "update-notifier": "~2.6.0"
   },
   "devDependencies": {
     "coveralls": "latest",
