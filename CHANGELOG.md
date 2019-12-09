@@ -1,3 +1,9 @@
+## <small>1.3.1 (2019-12-09)</small>
+
+* fix: fallback key ([c120569](https://github.com/Kikobeats/superb-es/commit/c120569))
+
+
+
 ## 1.3.0 (2019-12-09)
 
 * build: add more words ([36f0c38](https://github.com/Kikobeats/superb-es/commit/36f0c38)), closes [#11](https://github.com/Kikobeats/superb-es/issues/11)
