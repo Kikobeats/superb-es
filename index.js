@@ -16,7 +16,9 @@ const getPrefix = prefix => (typeof prefix === 'boolean' ? `${randomPrefix()} ` 
 const getWord = (item, { isPlural, isFemale }) => {
   const quantity = isPlural ? 'plural' : 'singular'
   const gender = isFemale ? 'Female' : 'Male'
-  return get(item, `${quantity}${gender}`, `${quantity}${isFemale ? 'Male' : 'Female'}`)
+  const key = `${quantity}${gender}`
+  const fallback = `${quantity}${isFemale ? 'Male' : 'Female'}`
+  return get(item, key) || get(item, fallback)
 }
 
 const getValue = (
