@@ -1,7 +1,7 @@
 {
   "name": "superb-es",
   "description": "Get superb (spanish) like words",
-  "homepage": "https://documentup.com/Kikobeats/superb-es",
+  "homepage": "https://nicedoc.io/Kikobeats/superb-es",
   "version": "1.2.0",
   "main": "index.js",
   "bin": {
