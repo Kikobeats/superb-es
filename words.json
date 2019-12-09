@@ -29,6 +29,7 @@
   },
   {
     "singularMale": "monstro",
+    "singularFemale": "monstra",
     "pluralMale": "monstro"
   },
   {
@@ -129,7 +130,9 @@
   },
   {
     "singularMale": "ciclón",
-    "pluralMale": "ciclones"
+    "singularFemale": "ciclona",
+    "pluralMale": "ciclones",
+    "pluralFemale": "ciclonas"
   },
   {
     "singularMale": "prenda",
@@ -161,6 +164,7 @@
   },
   {
     "singularMale": "tiburón",
+    "singularFemale": "tiburona",
     "pluralMale": "tiburones"
   },
   {
