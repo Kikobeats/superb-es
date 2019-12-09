@@ -16,8 +16,24 @@
     "pluralFemale": "ídolas"
   },
   {
-    "singularMale": "monstruo",
-    "pluralMale": "monstruos"
+    "singularMale": "elemento",
+    "singularFemale": "elementa",
+    "pluralMale": "elementos",
+    "pluralFemale": "elementas"
+  },
+  {
+    "singularMale": "ídolo",
+    "singularFemale": "ídola",
+    "pluralMale": "ídolos",
+    "pluralFemale": "ídolas"
+  },
+  {
+    "singularMale": "monstro",
+    "pluralMale": "monstro"
+  },
+  {
+    "singularMale": "referente",
+    "pluralMale": "referentes"
   },
   {
     "singularMale": "máquina",
@@ -43,11 +59,19 @@
   },
   {
     "singularMale": "héroe",
-    "pluralMale": "héroes"
+    "singularFemale": "heroína",
+    "pluralMale": "heroína",
+    "pluralFemale": "heroínas"
   },
   {
     "singularMale": "fenómeno",
-    "pluralMale": "fenómenos"
+    "singularFemale": "fenómena",
+    "pluralMale": "fenómenos",
+    "pluralFemale": "fenómenas"
+  },
+  {
+    "singularMale": "tanque",
+    "pluralMale": "tanques"
   },
   {
     "singularMale": "gacela",
@@ -72,6 +96,12 @@
     "singularFemale": "brontosauria",
     "pluralMale": "brontosaurios",
     "pluralFemale": "brontosaurias"
+  },
+  {
+    "singularMale": "gigante",
+    "singularFemale": "giganta",
+    "pluralMale": "gigantes",
+    "pluralFemale": "gigantas"
   },
   {
     "singularMale": "campeón",
@@ -104,6 +134,10 @@
   {
     "singularMale": "prenda",
     "pluralMale": "prendas"
+  },
+  {
+    "singularMale": "semental",
+    "pluralMale": "sementales"
   },
   {
     "singularMale": "killer",
@@ -142,5 +176,11 @@
     "singularFemale": "conquistadora",
     "pluralMale": "conquistadores",
     "pluralFemale": "conquistadoras"
+  },
+  {
+    "singularMale": "coloso",
+    "singularFemale": "colosa",
+    "pluralMale": "colosos",
+    "pluralFemale": "colososas"
   }
 ]

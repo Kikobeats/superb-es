@@ -34,7 +34,7 @@
     "words"
   ],
   "dependencies": {
-    "get-value": "~3.0.1",
+    "dlv": "~1.1.3",
     "meow": "~6.0.0",
     "unique-random-array": "~2.0.0",
     "update-notifier": "~3.0.1"
