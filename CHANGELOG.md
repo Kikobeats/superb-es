@@ -1,3 +1,10 @@
+## <small>1.3.2 (2020-01-20)</small>
+
+* Bump update-notifier from 3.0.1 to 4.0.0 ([33b60ff](https://github.com/Kikobeats/superb-es/commit/33b60ff))
+* build: words tweaks ([38253ea](https://github.com/Kikobeats/superb-es/commit/38253ea))
+
+
+
 ## <small>1.3.1 (2019-12-09)</small>
 
 * fix: fallback key ([c120569](https://github.com/Kikobeats/superb-es/commit/c120569))
