@@ -1,3 +1,11 @@
+## <small>1.3.3 (2020-05-07)</small>
+
+* Bump meow from 6.0.1 to 6.1.0 ([5b2b6fe](https://github.com/Kikobeats/superb-es/commit/5b2b6fe))
+* Bump meow from 6.1.1 to 7.0.0 ([236a3ac](https://github.com/Kikobeats/superb-es/commit/236a3ac))
+* Bump update-notifier from 4.0.0 to 4.1.0 ([205a0aa](https://github.com/Kikobeats/superb-es/commit/205a0aa))
+
+
+
 ## <small>1.3.2 (2020-01-20)</small>
 
 * Bump update-notifier from 3.0.1 to 4.0.0 ([33b60ff](https://github.com/Kikobeats/superb-es/commit/33b60ff))
