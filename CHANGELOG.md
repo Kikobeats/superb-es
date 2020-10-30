@@ -1,23 +1,20 @@
-## <small>1.3.3 (2020-05-07)</small>
+# Changelog
 
-* Bump meow from 6.0.1 to 6.1.0 ([5b2b6fe](https://github.com/Kikobeats/superb-es/commit/5b2b6fe))
-* Bump meow from 6.1.1 to 7.0.0 ([236a3ac](https://github.com/Kikobeats/superb-es/commit/236a3ac))
-* Bump update-notifier from 4.0.0 to 4.1.0 ([205a0aa](https://github.com/Kikobeats/superb-es/commit/205a0aa))
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-
-
-## <small>1.3.2 (2020-01-20)</small>
-
-* Bump update-notifier from 3.0.1 to 4.0.0 ([33b60ff](https://github.com/Kikobeats/superb-es/commit/33b60ff))
-* build: words tweaks ([38253ea](https://github.com/Kikobeats/superb-es/commit/38253ea))
+### 1.3.4 (2020-10-30)
 
 
+### Bug Fixes
 
-## <small>1.3.1 (2019-12-09)</small>
-
-* fix: fallback key ([c120569](https://github.com/Kikobeats/superb-es/commit/c120569))
-
-
+* fallback key ([c120569](https://github.com/Kikobeats/superb-es/commit/c12056943715cfc44817c92c1bb52041141ef161))
+* **package:** update get-value to version 3.0.0 ([a3705ca](https://github.com/Kikobeats/superb-es/commit/a3705ca91afc57b49ec7da8fc759e4d409140afe))
+* **package:** update update-notifier to version 2.6.0 ([092ccec](https://github.com/Kikobeats/superb-es/commit/092ccec64a0a6ff9a3784c3837826dd5a63ad838))
+* linter ([2a4e2af](https://github.com/Kikobeats/superb-es/commit/2a4e2affc15a5e01115621d5a27d15f5b20eaaea))
+* **package:** update meow to version 5.0.0 ([0b581c5](https://github.com/Kikobeats/superb-es/commit/0b581c53a900b13a8b2c10cf28e0cb4b08146c98))
+* **package:** update unique-random-array to version 2.0.0 ([f59d8d1](https://github.com/Kikobeats/superb-es/commit/f59d8d1650e261341ac1459418a5691a7ba91333))
+* **package:** update update-notifier to version 2.4.0 ([b1c2d2a](https://github.com/Kikobeats/superb-es/commit/b1c2d2a94d5dbcbef39ed6a8d6e05303e97b1c33))
+* **package:** update update-notifier to version 2.5.0 ([8c1d71e](https://github.com/Kikobeats/superb-es/commit/8c1d71e0b848b859f40fe3d6627ccfc7cd7e0343))
 
 ## 1.3.0 (2019-12-09)
 
@@ -67,6 +64,3 @@
 * Fix linter ([b68f0aa](https://github.com/Kikobeats/superb-es/commit/b68f0aa))
 * Renaming ([e198f47](https://github.com/Kikobeats/superb-es/commit/e198f47))
 * Update docs ([6a3bd0f](https://github.com/Kikobeats/superb-es/commit/6a3bd0f))
-
-
-

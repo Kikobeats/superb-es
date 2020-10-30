@@ -2,7 +2,7 @@
   "name": "superb-es",
   "description": "Get superb (spanish) like words",
   "homepage": "https://nicedoc.io/Kikobeats/superb-es",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "main": "index.js",
   "bin": {
     "superb-es": "bin/index.js"
